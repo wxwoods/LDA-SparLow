@@ -17,7 +17,7 @@ visualization, face/digit recognition, and object/scene categorization.
 
 # Result
 Impact of the regularizers to the recognition rate on the USPS digits:
-
+<font face="黑体">我是黑体字</font>
 
 
 # Dataset
