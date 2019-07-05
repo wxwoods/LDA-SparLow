@@ -18,8 +18,10 @@ visualization, face/digit recognition, and object/scene categorization.
 # Result
 Impact of the regularizers to the recognition rate on the USPS digits:
 ![avatar](https://github.com/wxwoods/LDA-SparLow/blob/master/results/LDA-SparLow.png)
+
 Trace of performance over optimization process initialized with different sparse coding methods on 15-Scenes dataset:
 ![avatar](https://github.com/wxwoods/LDA-SparLow/blob/master/results/LDA-SparLow2.png)
+
 Averaged classification Rate (%) comparison on 15-Scenes dataset.The classifier is 1NN for the third column if not specified:
 ![avatar](https://github.com/wxwoods/LDA-SparLow/blob/master/results/LDA-SparLow3.png)
 
@@ -27,4 +29,7 @@ Averaged classification Rate (%) comparison on 15-Scenes dataset.The classifier 
 # Dataset
 
 You can load dataset from [here](http://users.umiacs.umd.edu/~zhuolin/projectlcksvd.html).
+
+# paper
+You can load [paper](https://github.com/wxwoods/LDA-SparLow/blob/master/paper/Trace%20Quotient%20with%20Sparsity%20Priors%20for%20Learning%20Low%20Dimensional%20Image%20Representations.pdf) for detail.
 
