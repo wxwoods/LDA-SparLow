@@ -13,7 +13,7 @@ efficient geometric conjugate gradient algorithm to maximize the SparLow functio
 Performance of the proposed SparLow algorithmic framework is investigated on several image processing tasks, such as 3D data
 visualization, face/digit recognition, and object/scene categorization.
 
-<font face="黑体" size=16>This code just for LDA Sparlow.</font>
+<font face="黑体">This code just for LDA Sparlow.</font>
 
 # Result
 Impact of the regularizers to the recognition rate on the USPS digits:
