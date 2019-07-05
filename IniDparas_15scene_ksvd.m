@@ -17,7 +17,7 @@ addpath(genpath('./OMPbox/'));
 addpath(genpath('./ksvdbox/'));
 %load('./trainingdata/spatialpyramidfeatures4caltech101.mat');
 %load('C:\wx\code\5ODL_LDA\call_comparators\incrementallearning_LCKSVD_shared\trainingdata\spatialpyramidfeatures4caltech101.mat');
-load('C:\Users\Administrator\Desktop\ODL_LDA_scene15\data\spatialpyramidfeatures4scene15.mat')
+load('C:\Users\Administrator\Desktop\LDA_SparLow\dataset\spatialpyramidfeatures4scene15.mat')
 %% constant
 personnumber            = param.personnumber; % person number for evaluation
 % constant for incremental dictionary learning
