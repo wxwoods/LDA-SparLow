@@ -41,9 +41,15 @@ if this repo helps your research, Please cite:
 
 
 @article{wei2019trace,
+
   title={Trace Quotient with Sparsity Priors for Learning Low Dimensional Image Representations},
+  
   author={Wei, Xian and Shen, Hao and Kleinsteuber, Martin},
+  
   journal={IEEE transactions on pattern analysis and machine intelligence},
+  
   year={2019},
+  
   publisher={IEEE}
+  
 }
