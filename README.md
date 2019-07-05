@@ -17,7 +17,7 @@ visualization, face/digit recognition, and object/scene categorization.
 
 # Result
 Impact of the regularizers to the recognition rate on the USPS digits:
-
+![avatar](https://github.com/wxwoods/LDA-SparLow/blob/master/results/LDA-SparLow.png)
 
 
 # Dataset
