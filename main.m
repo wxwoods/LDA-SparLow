@@ -1,5 +1,14 @@
 % (c) Xian Wei, Research Group for Geometric Optimization and Machine Learning
 % Muenchen, 2014. Contact: xian.wei@tum.de
+%cite：
+% @article{wei2019trace,
+% title={Trace Quotient with Sparsity Priors for Learning Low Dimensional Image Representations},
+% author={Wei, Xian and Shen, Hao and Kleinsteuber, Martin},
+% journal={IEEE transactions on pattern analysis and machine intelligence},
+% year={2019},
+% publisher={IEEE}
+% }
+
 close all; clear all;
 % Setup;
 %param.select_OMP_LASSO          = 1; % omp: 1; lasso: 2;  
