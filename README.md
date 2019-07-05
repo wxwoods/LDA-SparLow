@@ -13,11 +13,15 @@ efficient geometric conjugate gradient algorithm to maximize the SparLow functio
 Performance of the proposed SparLow algorithmic framework is investigated on several image processing tasks, such as 3D data
 visualization, face/digit recognition, and object/scene categorization.
 
-<font face="黑体">This code just for LDA Sparlow.</font>
+<font face="黑体">This code just is for LDA Sparlow.</font>
 
 # Result
 Impact of the regularizers to the recognition rate on the USPS digits:
 ![avatar](https://github.com/wxwoods/LDA-SparLow/blob/master/results/LDA-SparLow.png)
+Trace of performance over optimization process initialized with different sparse coding methods on 15-Scenes dataset:
+![avatar](https://github.com/wxwoods/LDA-SparLow/blob/master/results/LDA-SparLow2.png)
+Averaged classification Rate (%) comparison on 15-Scenes dataset.The classifier is 1NN for the third column if not specified:
+![avatar](https://github.com/wxwoods/LDA-SparLow/blob/master/results/LDA-SparLow3.png)
 
 
 # Dataset
