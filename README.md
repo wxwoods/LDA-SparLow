@@ -36,3 +36,14 @@ You can load dataset from [here](http://users.umiacs.umd.edu/~zhuolin/projectlck
 # paper
 You can load [paper](https://github.com/wxwoods/LDA-SparLow/blob/master/paper/Trace%20Quotient%20with%20Sparsity%20Priors%20for%20Learning%20Low%20Dimensional%20Image%20Representations.pdf) for detail.
 
+
+if this repo helps your research, Please cite:
+
+
+@article{wei2019trace,
+  title={Trace Quotient with Sparsity Priors for Learning Low Dimensional Image Representations},
+  author={Wei, Xian and Shen, Hao and Kleinsteuber, Martin},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  year={2019},
+  publisher={IEEE}
+}
